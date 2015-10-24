@@ -1,0 +1,1012 @@
+<REAPER_PROJECT 0.1 "5.04/OSX64" 1445571258
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3198 8 1 8 1 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 876.93638471623308
+  ZOOM 0.49654620426944 0 0
+  VZOOMEX 6
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxAA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/charlesholbrow/Projects/Reaper/2015/ML 30th Anniversary Sounds/ML30All.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 393216
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxABAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 1359.2580446428556
+  SELECTION2 0 1359.2580446428556
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 -1 -1 -1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {1C26DAAF-A918-2344-9DF6-3D1FFEE7EB49}
+    NAME ML30
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1C26DAAF-A918-2344-9DF6-3D1FFEE7EB49}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 40.71106575963719
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0EF32E21-6C6D-7345-98B6-E6C4122C0519}
+      IID 1
+      NAME "Adam Boulanger.aif"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D7933F54-25DE-944C-BA0C-F8D157C40E7D}
+      <SOURCE WAVE
+        FILE "Adam Boulanger.aif"
+      >
+    >
+    <ITEM
+      POSITION 40.7110657596495
+      SNAPOFFS 0
+      LENGTH 30.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7A8E2F50-42AA-4A48-B8D9-6CB7021117B0}
+      IID 2
+      NAME "Alex Rigopulos_bass only.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9805914E-F4AE-584D-A221-378DDFB3AA1E}
+      <SOURCE WAVE
+        FILE "Alex Rigopulos_bass only.wav"
+      >
+    >
+    <ITEM
+      POSITION 71.2110657596495
+      SNAPOFFS 0
+      LENGTH 30.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0A36EEBE-7643-3545-BAA7-5E09B70FD911}
+      IID 3
+      NAME "Alex Rigopulos_ekimero only.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B733900C-EC9A-6A46-8E4A-6E716EA3D1D5}
+      <SOURCE WAVE
+        FILE "Alex Rigopulos_ekimero only.wav"
+      >
+    >
+    <ITEM
+      POSITION 101.7110657596495
+      SNAPOFFS 0
+      LENGTH 29.0308843537415
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {917DB4ED-7723-6841-8BF2-A4B007F38AE2}
+      IID 4
+      NAME "Alex Rigopulos.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EACA429-03DC-7142-A310-BA980FC4ABCF}
+      <SOURCE WAVE
+        FILE "Alex Rigopulos.wav"
+      >
+    >
+    <ITEM
+      POSITION 130.74195011332631
+      SNAPOFFS 0
+      LENGTH 304.21913832199544
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FDC41BC7-2C3B-AE4E-AEA8-739AC5B25907}
+      IID 5
+      NAME "Andy Cavatorta.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC51E8D9-44E7-BE40-8BA3-E68E4BF6AEFF}
+      <SOURCE WAVE
+        FILE "Andy Cavatorta.wav"
+      >
+    >
+    <ITEM
+      POSITION 434.96108843537513
+      SNAPOFFS 0
+      LENGTH 35.60074829931973
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DC633DA0-F748-784F-9EBE-E1C59E99D351}
+      IID 6
+      NAME "Andy Hong.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9C4ABD0-8CDA-0F40-9C0A-7BCE12B65E2B}
+      <SOURCE WAVE
+        FILE "Andy Hong.wav"
+      >
+    >
+    <ITEM
+      POSITION 470.56183673464693
+      SNAPOFFS 0
+      LENGTH 17.71958333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5BF1086F-3DB0-E646-B6A1-51FDB35DB22D}
+      IID 7
+      NAME "Bryn Bliska.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8204D619-81D8-7143-8598-352D8C68C266}
+      <SOURCE WAVE
+        FILE "Bryn Bliska.wav"
+      >
+    >
+    <ITEM
+      POSITION 488.28142006800044
+      SNAPOFFS 0
+      LENGTH 1.03328798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {02494BD6-9A89-274A-99DC-F131A512CA13}
+      IID 8
+      NAME "David Waxman 1.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7669FD00-0DAB-7444-821D-4BB10C5D9C4C}
+      <SOURCE WAVE
+        FILE "David Waxman 1.wav"
+      >
+    >
+    <ITEM
+      POSITION 489.31470804987475
+      SNAPOFFS 0
+      LENGTH 2.04335600907029
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {88F1E95F-3EAC-AE46-9AAC-E7062B208367}
+      IID 9
+      NAME "David Waxman 2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B580D81-1BF1-D54C-A17F-C958A5901799}
+      <SOURCE WAVE
+        FILE "David Waxman 2.wav"
+      >
+    >
+    <ITEM
+      POSITION 491.35806405893527
+      SNAPOFFS 0
+      LENGTH 16.67170068027211
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9198D247-4950-604E-8A55-82D88A211000}
+      IID 10
+      NAME "Ed Hammond.aif"
+      VOLPAN 0.327586 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {839C9735-6AA1-ED46-886F-B1F4F96B833C}
+      <SOURCE WAVE
+        FILE "Ed Hammond.aif"
+      >
+    >
+    <ITEM
+      POSITION 508.02976473921444
+      SNAPOFFS 0
+      LENGTH 24.07909297052154
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DB1FE0A4-B135-6F40-A384-3C11C6DCA2BC}
+      IID 11
+      NAME "Elly Jessop.aiff"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9F613064-6227-1149-A416-5C157768BE8B}
+      <SOURCE WAVE
+        FILE "Elly Jessop.aiff"
+      >
+    >
+    <ITEM
+      POSITION 532.10885770979803
+      SNAPOFFS 0
+      LENGTH 36.19875283446712
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6D98C854-11A6-D940-B0AA-620954018D6A}
+      IID 12
+      NAME "Eran Egozy.wav"
+      VOLPAN 0.87931 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56691062-2B67-FF4B-B712-74B4B87341C5}
+      <SOURCE WAVE
+        FILE "Eran Egozy.wav"
+      >
+    >
+    <ITEM
+      POSITION 568.30761054425966
+      SNAPOFFS 0
+      LENGTH 20.8728798185941
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 1.016302 0 1 0 0
+      FADEOUT 1 0.648409 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8595D9F0-DA88-B34C-B4B6-8F98B1D29635}
+      IID 13
+      NAME "Eric Metois.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5DDC753-EDC6-1744-B2EB-6BD5D741A01F}
+      <SOURCE MP3
+        FILE "Eric Metois.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 589.18049036280718
+      SNAPOFFS 0
+      LENGTH 21.42478458049887
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.126216 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9952EB3E-59CE-4445-B4BD-F6524C7A48FD}
+      IID 14
+      NAME "Eyal Shahar.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DED18685-C687-584C-8755-6E5D1BAD2610}
+      <SOURCE WAVE
+        FILE "Eyal Shahar.wav"
+      >
+    >
+    <ITEM
+      POSITION 610.60527494328562
+      SNAPOFFS 0
+      LENGTH 10.92167800453515
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C6530443-B929-AE4E-B00C-2DF51CC2333F}
+      IID 15
+      NAME "Gil Weinberg.aif"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2CBBC176-9B70-B34A-AB84-0D9446A75426}
+      <SOURCE WAVE
+        FILE "Gil Weinberg.aif"
+      >
+    >
+    <ITEM
+      POSITION 621.52695294783916
+      SNAPOFFS 0
+      LENGTH 13.63975
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4F7051EE-5265-4A49-BAB3-E4BFF74110F9}
+      IID 16
+      NAME "Hugo Solis.aif"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4D6A14DB-E9E0-FB40-8A22-D864F8401670}
+      <SOURCE WAVE
+        FILE "Hugo Solis.aif"
+      >
+    >
+    <ITEM
+      POSITION 635.16670294781215
+      SNAPOFFS 0
+      LENGTH 27.80918367346939
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1FB1BFD8-E97B-A74B-9F29-62FBBB83A02A}
+      IID 17
+      NAME "Janice Wang.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A94B328-0494-B148-86A1-76864D478A7F}
+      <SOURCE WAVE
+        FILE "Janice Wang.wav"
+      >
+    >
+    <ITEM
+      POSITION 662.97588662127964
+      SNAPOFFS 0
+      LENGTH 4.45521541950113
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {865C004A-2AFA-3543-8B13-CF6AC32F9B4B}
+      IID 18
+      NAME "Joe Chung.aif"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B4F8B04-C3B2-4445-BA49-1699704187E8}
+      <SOURCE WAVE
+        FILE "Joe Chung.aif"
+      >
+    >
+    <ITEM
+      POSITION 667.43110204080585
+      SNAPOFFS 0
+      LENGTH 15.90040816326531
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B1EC364C-ED55-6647-8E47-BD18AB8FEAAC}
+      IID 19
+      NAME "Joshua Strickon.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1407BC43-D187-CF43-BC2E-5F9CC6F4E2B7}
+      <SOURCE WAVE
+        FILE "Joshua Strickon.wav"
+      >
+    >
+    <ITEM
+      POSITION 683.33151020412333
+      SNAPOFFS 0
+      LENGTH 28.18145124716553
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4632F04C-7319-4648-94C6-3FBEC7022BA1}
+      IID 20
+      NAME "Maggie Orth.aif"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF8DAF26-3186-EA40-8077-D02586806FCA}
+      <SOURCE WAVE
+        FILE "Maggie Orth.aif"
+      >
+    >
+    <ITEM
+      POSITION 711.51296145119704
+      SNAPOFFS 0
+      LENGTH 106.99755102040817
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0E75B392-57DE-E24E-8432-28AC2F7B7A71}
+      IID 21
+      NAME "Marc Downie.aif"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F0970A5-F335-424C-94A8-A1FEF09CB58C}
+      <SOURCE WAVE
+        FILE "Marc Downie.aif"
+      >
+    >
+    <ITEM
+      POSITION 818.5105124716647
+      SNAPOFFS 0
+      LENGTH 29.27310657596372
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {949715FF-26F5-2F43-9460-290E9C2CDB3C}
+      IID 22
+      NAME "Mary Farbood.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACC20D6F-0A38-E24C-B4C4-A4BBA9D21A82}
+      <SOURCE WAVE
+        FILE "Mary Farbood.wav"
+      >
+    >
+    <ITEM
+      POSITION 847.78361904760823
+      SNAPOFFS 0
+      LENGTH 24.96734693877551
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FACFFAA7-8F29-C04A-A874-0676783AB3E0}
+      IID 23
+      NAME "Mike Fabio.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D16D88D-AF03-574E-9BA9-E4EFBA330CFC}
+      <SOURCE WAVE
+        FILE "Mike Fabio.wav"
+      >
+    >
+    <ITEM
+      POSITION 872.75096598640084
+      SNAPOFFS 0
+      LENGTH 20.19689342403628
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E3C5F9E5-C9F9-8B44-885E-222F993D96DB}
+      IID 24
+      NAME "Nick Knouf.wav"
+      VOLPAN 0.87931 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC8BE445-2F6F-2245-B5D3-AC1D66B3289D}
+      <SOURCE WAVE
+        FILE "Nick Knouf.wav"
+      >
+    >
+    <ITEM
+      POSITION 892.94785941042937
+      SNAPOFFS 0
+      LENGTH 68.06214323256052
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1.1 0 0.237518 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {33007413-0A69-0F4A-A647-5910DDF6315F}
+      IID 25
+      NAME "Noah Feehan.wav"
+      VOLPAN 0.551724 0 31.812665 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D6F7C09-5337-204B-9180-2EB1B233A3EC}
+      <SOURCE WAVE
+        FILE "Noah Feehan.wav"
+      >
+    >
+    <ITEM
+      POSITION 960.77248472363749
+      SNAPOFFS 0
+      LENGTH 3.40137468679188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.237518 1 1 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7A83D95C-05A6-EC4F-8F0C-2CF5E6744A7D}
+      IID 25
+      NAME "Noah Feehan.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 67.82462531320812
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8281BCA3-CF80-1244-B836-C914ECF43D95}
+      <SOURCE WAVE
+        FILE "Noah Feehan.wav"
+      >
+    >
+    <ITEM
+      POSITION 964.17385941045359
+      SNAPOFFS 0
+      LENGTH 30.53160997732426
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {86E87C0B-216C-204F-B2F1-215B23F383E8}
+      IID 26
+      NAME "Pete Rice.aiff"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F38C915-178E-3F4D-9AE1-D99B163EAFFE}
+      <SOURCE WAVE
+        FILE "Pete Rice.aiff"
+      >
+    >
+    <ITEM
+      POSITION 994.70546938769985
+      SNAPOFFS 0
+      LENGTH 30.83993197278912
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {DEB45281-CB42-5548-87B6-55421FF69E92}
+      IID 27
+      NAME "Peter Torpey.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0EE6C0C2-4768-004B-B4CF-154ACE6504D3}
+      <SOURCE WAVE
+        FILE "Peter Torpey.wav"
+      >
+    >
+    <ITEM
+      POSITION 1025.5454013604904
+      SNAPOFFS 0
+      LENGTH 9.30283446712018
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {EFA3218A-EEDB-2C48-BD6C-1DBD8ADF36BA}
+      IID 28
+      NAME "Robert Rowe.aiff"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {599D8569-94FC-D942-B4EC-058C3781EF45}
+      <SOURCE WAVE
+        FILE "Robert Rowe.aiff"
+      >
+    >
+    <ITEM
+      POSITION 1034.8482358276378
+      SNAPOFFS 0
+      LENGTH 30.22510204081633
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3951B0F5-106C-C448-BD4C-AED988B73349}
+      IID 29
+      NAME "Roberto Aimi.aiff"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A1A4923-E6B5-8445-BD12-5A8700EFB7A4}
+      <SOURCE WAVE
+        FILE "Roberto Aimi.aiff"
+      >
+    >
+    <ITEM
+      POSITION 1065.0733378684381
+      SNAPOFFS 0
+      LENGTH 29.12652083333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B3B89AB3-8A34-D249-A2EA-D45C4174BEA5}
+      IID 30
+      NAME "Seum-Lim Gan.aiff"
+      VOLPAN 0.810345 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CF8F43D9-54B6-7547-AFFD-0FD30E64E4B1}
+      <SOURCE WAVE
+        FILE "Seum-Lim Gan.aiff"
+      >
+    >
+    <ITEM
+      POSITION 1094.1998587017879
+      SNAPOFFS 0
+      LENGTH 34.12947845804989
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8BE3807B-91ED-DC4A-B346-1AA794A8710F}
+      IID 31
+      NAME "Shahrokh Yadegari_34 second_Yadegari.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0FED4321-3E0A-5F4D-958D-FDD2D65B47E6}
+      <SOURCE WAVE
+        FILE "Shahrokh Yadegari_34 second_Yadegari.wav"
+      >
+    >
+    <ITEM
+      POSITION 1128.3293371598702
+      SNAPOFFS 0
+      LENGTH 90
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D29B74CB-2598-8243-96FA-07182D1340F4}
+      IID 32
+      NAME "Shahrokh Yadegari_90 second_Yadegari.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {709EE57F-862C-4D47-A5FD-39D706B2B0E3}
+      <SOURCE WAVE
+        FILE "Shahrokh Yadegari_90 second_Yadegari.wav"
+      >
+    >
+    <ITEM
+      POSITION 1218.3293371598702
+      SNAPOFFS 0
+      LENGTH 7.48557823129252
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {B008FB44-8DA9-734B-919A-0D1FE67917B9}
+      IID 33
+      NAME "Teresa Malkauns_Alaap 008 response.wav"
+      VOLPAN 0.689655 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B2725EE-5040-D74B-886C-39F66FFD1519}
+      <SOURCE WAVE
+        FILE "Teresa Malkauns_Alaap 008 response.wav"
+      >
+    >
+    <ITEM
+      POSITION 1225.8149153911509
+      SNAPOFFS 0
+      LENGTH 6.31671201814059
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9C55C00C-33C4-4345-94A5-1E3A2DD6012A}
+      IID 34
+      NAME "Teresa Malkauns_Alaap 024 response.wav"
+      VOLPAN 0.655172 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3D6F17A-5159-BB4B-B16A-7B09B74CD6C6}
+      <SOURCE WAVE
+        FILE "Teresa Malkauns_Alaap 024 response.wav"
+      >
+    >
+    <ITEM
+      POSITION 1232.1316274092533
+      SNAPOFFS 0
+      LENGTH 10.38046701184112
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1.1 0 0.855946 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {E4AF5E58-11BA-344F-AF84-54A5E52FB858}
+      IID 35
+      NAME "Teresa Marrin Nakra_electronicmusicguitarGreg.wav"
+      VOLPAN 0.465517 0 3.003141 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CE9B5596-2833-F64D-9FE8-6565084DC98E}
+      <SOURCE WAVE
+        FILE "Teresa Marrin Nakra_electronicmusicguitarGreg.wav"
+      >
+    >
+    <ITEM
+      POSITION 1241.6561487778181
+      SNAPOFFS 0
+      LENGTH 26.42702075847637
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.855946 1 1 0
+      FADEOUT 1.1 0 0.150011 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {2AAF2F5E-8C0B-0A40-9137-61065C8FCE1F}
+      IID 35
+      NAME "Teresa Marrin Nakra_electronicmusicguitarGreg.wav"
+      VOLPAN 1 0 3.003141 -1
+      SOFFS 9.52452136856482
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {20923D15-D5EE-0442-8A22-E1B66200C00B}
+      <SOURCE WAVE
+        FILE "Teresa Marrin Nakra_electronicmusicguitarGreg.wav"
+      >
+    >
+    <ITEM
+      POSITION 1267.9331582188086
+      SNAPOFFS 0
+      LENGTH 6.82668831272395
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.150011 1 1 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A31A651E-0A39-9245-B79A-9AFFABAB6017}
+      IID 35
+      NAME "Teresa Marrin Nakra_electronicmusicguitarGreg.wav"
+      VOLPAN 0.62069 0 3.003141 -1
+      SOFFS 35.80153080955529
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {280EE683-7A08-7746-9529-02B654A109F9}
+      <SOURCE WAVE
+        FILE "Teresa Marrin Nakra_electronicmusicguitarGreg.wav"
+      >
+    >
+    <ITEM
+      POSITION 1274.7598465315325
+      SNAPOFFS 0
+      LENGTH 55.76402577567995
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D377C229-5EF9-2F49-87D2-8EFD4C28D060}
+      IID 35
+      NAME "Teresa Marrin Nakra_electronicmusicguitarGreg.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 42.62821912227923
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B1D4C47-27F7-AE4D-B585-89BAD39F7EB7}
+      <SOURCE WAVE
+        FILE "Teresa Marrin Nakra_electronicmusicguitarGreg.wav"
+      >
+    >
+    <ITEM
+      POSITION 1330.5238723072689
+      SNAPOFFS 0
+      LENGTH 5.62607709750567
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {18CFC19C-6AA9-D048-A698-4908A60033E4}
+      IID 36
+      NAME "Teresa Marrin Nakra_SG Devasthali Malkauns Alaap 009.wav"
+      VOLPAN 0.724138 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {693A2E96-791C-F746-8F85-8A2B96720F37}
+      <SOURCE WAVE
+        FILE "Teresa Marrin Nakra_SG Devasthali Malkauns Alaap 009.wav"
+      >
+    >
+    <ITEM
+      POSITION 1336.1499494047603
+      SNAPOFFS 0
+      LENGTH 23.10809523809524
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5D4D1E4D-2896-3E4A-9F94-25D4E06E94C1}
+      IID 37
+      NAME "Tristan Jehan.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E8BBF9C-385D-B84F-85AE-7F2ECDCFE0EA}
+      <SOURCE WAVE
+        FILE "Tristan Jehan.wav"
+      >
+    >
+  >
+>
