@@ -1,0 +1,997 @@
+<REAPER_PROJECT 0.1 "5.04/OSX64" 1445742833
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0
+  ZOOM 10.47447055 0 0
+  VZOOMEX 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxAA
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "/Users/charlesholbrow/Projects/Reaper/2015/ML 30th Anniversary Sounds/ML30-#1-01.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 393216
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxABAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 60 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 36 0
+  SELECTION2 36 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 1 0.6667 0.5 0.5 -1 -1 -1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.28746169243863 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 143 0 791 415
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <VST "VST: ReaComp (Cockos)" reacomp.vst.dylib 0 "" 1919247213
+      bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFQAAAAAAAAAAAAQAO++rd4N8K3emzkIPwAAAACmm8Q7
+      CtejPAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAJzRBzMAAIA/AAAAAM3MTD0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA==
+    >
+    FLOATPOS 0 0 0 0
+    FXID {F67EEFC0-AEBF-D748-8890-336AC09535B5}
+    WAK 0
+  >
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 1
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {81D08104-621A-FC44-901C-B9F439D5589E}
+    NAME "Hugo Solis"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 276 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {81D08104-621A-FC44-901C-B9F439D5589E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 1
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {18D3B1B4-F5A6-6945-98CA-1F5AF5659A78}
+      IID 169
+      NAME "Alex Rigopulos_1sec.wav"
+      VOLPAN 0.520833 0 2.431166 -1
+      SOFFS 0
+      PLAYRATE 0.88848072562358 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {869A980C-55DF-104E-9E85-90526ACC4B7F}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Sarah/Alex Rigopulos_1sec.wav"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0DC0BD66-02AD-7448-AC3E-E734200BB04A}
+      IID 172
+      NAME "Andy Cavatorta_1sec.wav"
+      VOLPAN 1 0 6.095946 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0AC1E1AB-96E2-8547-ADF7-577B67875DB2}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Sarah/Andy Cavatorta_1sec.wav"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6DACC91E-ABBB-DE4D-83AE-6F2BF10FFF77}
+      IID 188
+      NAME "Marc D.wav"
+      VOLPAN 1 0 1.354326 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7CEBF113-7EC4-4F49-B888-7E5F0035E377}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Marc D.wav"
+      >
+    >
+    <ITEM
+      POSITION 14
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BA159EF3-7EAC-1148-AF8E-946E72600A30}
+      IID 191
+      NAME Nick.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76A6B615-C30B-E94E-8AEB-FB1BCB557570}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Nick.wav"
+      >
+    >
+    <ITEM
+      POSITION 21
+      SNAPOFFS 0
+      LENGTH 1.33329121616132
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {81FFD604-9D52-3246-89DA-438634918D92}
+      IID 197
+      NAME Seum-Lim.wav
+      VOLPAN 0.520833 0 5.687933 -1
+      SOFFS 0.97551803736838
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AB01163-5D46-4541-AB79-52C3CBD9A617}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Seum-Lim.wav"
+      >
+    >
+    <ITEM
+      POSITION 25.09751323675854
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8E3F275C-65EA-A14C-A805-3EB1B2844B4E}
+      IID 178
+      NAME "Elly Jessop_1sec.aiff"
+      VOLPAN 1 0 1.833509 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4568CA2D-235A-EE4B-9026-D0A55EA18F30}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Sarah/Elly Jessop_1sec.aiff"
+      >
+    >
+    <ITEM
+      POSITION 27.09751323675854
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {14BC790E-978A-3542-B763-F2F5F09FA5A3}
+      IID 180
+      NAME "Eric Metois_1sec.mp3"
+      VOLPAN 0.25 0 1.458235 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {92BADBE9-DA8A-C34F-BC5B-4BB53425B7C3}
+      <SOURCE MP3
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Sarah/Eric Metois_1sec.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 29.09751323675854
+      SNAPOFFS 0
+      LENGTH 0.99868480725624
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9302392E-B966-FB4C-9175-51E9400516ED}
+      IID 182
+      NAME "Gil Weinberg_1sec.wav"
+      VOLPAN 1 0 1.334661 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3CF4D0FE-6F68-6247-BD06-17D68AD3399D}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Sarah/Gil Weinberg_1sec.wav"
+      >
+    >
+    <ITEM
+      POSITION 31
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0910B21E-88EA-BA42-A7CB-AD43D1182FF3}
+      IID 185
+      NAME "Joe Chung.aif"
+      VOLPAN 1 0 1.010622 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3BB631C7-1A39-7B45-A5CC-EAD3CC30E9E9}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Joe Chung.aif"
+      >
+    >
+  >
+  <TRACK {8584BCB6-C56C-5043-99A1-FABB8F898C41}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8584BCB6-C56C-5043-99A1-FABB8F898C41}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AF69D653-2CCE-2C4F-B0FD-FD7C50032A2C}
+      IID 18
+      NAME "Adam Boulanger.aif"
+      VOLPAN 0.805447 0 1 -1
+      SOFFS 5.18000242320766
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {079B528C-C7CE-4044-B36D-8D594D1E4430}
+      <SOURCE WAVE
+        FILE "Sources/Adam Boulanger.aif"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {19D1889C-C7A7-3E48-BFAF-4254D48594B7}
+      IID 171
+      NAME "Alex Rigopulos_ekimero only_1sec.wav"
+      VOLPAN 1 0 2.516749 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19817D93-2CEC-E14B-A9B0-A3329A9CA470}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Sarah/Alex Rigopulos_ekimero only_1sec.wav"
+      >
+    >
+    <ITEM
+      POSITION 5
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0 0 1 0 0
+      MUTE 0
+      SEL 0
+      GROUP 11
+      IGUID {07176334-4591-F543-B7C7-A2E79E3928CE}
+      IID 20
+      NAME "Andy Hong.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 26.10723206734625
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E32F4039-112E-0145-9C27-52D8CA583660}
+      <SOURCE WAVE
+        FILE "Sources/Andy Hong.wav"
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4EAB9BEC-052D-8641-9896-0CDD48813CFD}
+      IID 177
+      NAME "Ed Hammond_1sec.aif"
+      VOLPAN 0.770833 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0654C42C-2790-E148-B9BE-1F9C39A38E59}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Sarah/Ed Hammond_1sec.aif"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {79F28D35-86D2-BA48-8E24-F8626C996B5C}
+      IID 186
+      NAME Joshua.wav
+      VOLPAN 1 0 3.981072 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0370F893-750C-D342-A5E8-06DE68789C43}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Joshua.wav"
+      >
+    >
+    <ITEM
+      POSITION 15
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {FA22363C-DB3A-404E-9990-619FA503D669}
+      IID 192
+      NAME Noah.wav
+      VOLPAN 1 0 3.981072 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7988B747-8AE1-CF48-A951-5C84BF666370}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Noah.wav"
+      >
+    >
+    <ITEM
+      POSITION 22
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {630011E9-AF7D-EA48-8338-8ABEA8C30A81}
+      IID 198
+      NAME Shahrokh.wav
+      VOLPAN 1 0 2.576563 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5930E90A-472A-9843-BFFA-D94E832756E8}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Shahrokh.wav"
+      >
+    >
+    <ITEM
+      POSITION 26.09751323675854
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {445E0D0C-B6F3-5443-9E7C-D6BFE469590E}
+      IID 179
+      NAME "Eran Egozy_1sec.wav"
+      VOLPAN 1 0 2.188038 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E818FEAC-B208-E24B-8A37-C06D822123F2}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Sarah/Eran Egozy_1sec.wav"
+      >
+    >
+    <ITEM
+      POSITION 28.09751323675854
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BEAFD9DB-4C6E-D04E-8A3B-DAB2A4393D4E}
+      IID 181
+      NAME "Eyal Shahar_1sec.wav"
+      VOLPAN 1 0 1.978885 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FA6BF5B-07A5-3B41-9C9E-159A4ACD8C32}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Sarah/Eyal Shahar_1sec.wav"
+      >
+    >
+    <ITEM
+      POSITION 30
+      SNAPOFFS 0
+      LENGTH 1.14556553712202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.034888 0 1 0 0
+      FADEOUT 1 0.145129 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3CF97C4C-303B-4345-BF14-F41043164444}
+      IID 12
+      NAME "Hugo Solis.aif"
+      VOLPAN 1 0 1 -1
+      SOFFS 5.31068767250204
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB1AD2B0-6834-5042-BFFD-C714D7022C4A}
+      <SOURCE WAVE
+        FILE "Sources/Hugo Solis.aif"
+      >
+    >
+  >
+  <TRACK {95CD6F63-E3DC-194E-8781-B1A4131E33BC}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {95CD6F63-E3DC-194E-8781-B1A4131E33BC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 3.09751323675851
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {2007196E-ECF9-FF4B-9CDB-C38FF7821BAF}
+      IID 184
+      NAME Janice.wav
+      VOLPAN 1 0 1.804039 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4414025D-E187-CF48-B806-FD494B812DCF}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Janice.wav"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {90DCB2F1-CC0F-5843-82E7-C3DC0BEEBFCE}
+      IID 174
+      NAME "Bryn Bliska_1sec.wav"
+      VOLPAN 0.791667 0 1.622401 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28886C0C-3673-5B4F-AAC0-FA58311AEF53}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Sarah/Bryn Bliska_1sec.wav"
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {83CBF785-54A9-8941-B13F-EE8BA47E7EEF}
+      IID 187
+      NAME Maggie.wav
+      VOLPAN 1 0 3.697928 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D75BBD4C-C4A6-414B-924B-D7083EE71426}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Maggie.wav"
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0143ED72-73DD-D44F-9868-EA6B4D9A6BC6}
+      IID 193
+      NAME Pete.wav
+      VOLPAN 1 0 1.170585 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {596B157F-2A39-B049-A869-4EE55E034E7F}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Pete.wav"
+      >
+    >
+    <ITEM
+      POSITION 23
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {52E4BAD0-39D4-9A44-A9F5-96D90EB0D2A2}
+      IID 199
+      NAME Teresa.wav
+      VOLPAN 1 0 67.634777 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C716ACB-E776-784C-B228-5BC2F9056906}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Teresa.wav"
+      >
+    >
+  >
+  <TRACK {63565CCE-70FC-4B43-B82F-8A2488C97258}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {63565CCE-70FC-4B43-B82F-8A2488C97258}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {BF9DF3B5-104F-0D4A-AC9C-4BDD70F74D8B}
+      IID 176
+      NAME "David Waxman 2_1sec.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F19153FE-AEE7-D946-9FA2-1D68EBB6EA6B}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Sarah/David Waxman 2_1sec.wav"
+      >
+    >
+    <ITEM
+      POSITION 17
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1609850B-885C-854C-85D0-0B0D14A4109E}
+      IID 194
+      NAME "Peter T.wav"
+      VOLPAN 0.55 0 1.573058 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24B69837-C850-A34F-909B-6557FC76B6B8}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Peter T.wav"
+      >
+    >
+    <ITEM
+      POSITION 19
+      SNAPOFFS 0
+      LENGTH 1.09751323675852
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C0274C26-C2B1-BF4E-B622-EB9E67D9F505}
+      IID 201
+      NAME Will.wav
+      VOLPAN 1 0 8.161086 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C50BD032-5E25-6F4B-8D45-C83C96715533}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Will.wav"
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 1.09751323675853
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {59A5E6E4-F63B-A741-86D6-D4108862B7EF}
+      IID 200
+      NAME Tristan.wav
+      VOLPAN 1 0 3.3375 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {004C4661-567B-A247-A0ED-0C511F7B42AC}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Tristan.wav"
+      >
+    >
+  >
+  <TRACK {5F7731B1-9D0E-554E-9EA8-0D7ED6806BFF}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5F7731B1-9D0E-554E-9EA8-0D7ED6806BFF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {95DDC0FF-451C-9749-828C-24C3CD766D88}
+      IID 189
+      NAME Mary.wav
+      VOLPAN 1 0 1.441719 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {709E2E3D-5ED5-CD45-A452-528A1330F6D4}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Mary.wav"
+      >
+    >
+    <ITEM
+      POSITION 18
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {0FE71760-0CC6-5349-93E0-58547851B1E4}
+      IID 195
+      NAME Robert.wav
+      VOLPAN 1 0 1.221082 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1BFB5A9-C7DE-D84E-ADB3-31C5A1ADA640}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Robert.wav"
+      >
+    >
+  >
+  <TRACK {AD1EC8FF-D50C-7F42-9326-4BBA9BEF42E9}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AD1EC8FF-D50C-7F42-9326-4BBA9BEF42E9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 13
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {84C834D4-3A33-F444-8183-8D93215B8738}
+      IID 190
+      NAME "Mike F.wav"
+      VOLPAN 1 0 3.573325 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF8D574D-BE7B-9146-AD3F-47074CB1AE9E}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Mike F.wav"
+      >
+    >
+    <ITEM
+      POSITION 20
+      SNAPOFFS 0
+      LENGTH 1.09751323675851
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {62434E63-9F33-CD4A-B287-D7B5F84456AD}
+      IID 196
+      NAME Roberto.wav
+      VOLPAN 0.4375 0 5.95186 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CEBD9744-FCA7-B34D-BB01-DB72773EF35C}
+      <SOURCE WAVE
+        FILE "/Users/charlesholbrow/Downloads/1_second_sounds/Rebecca_1s/Roberto.wav"
+      >
+    >
+  >
+  <TRACK {03227C61-1F9A-D441-B9A5-3DBED2981F29}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.28746169243863 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {03227C61-1F9A-D441-B9A5-3DBED2981F29}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {1B20F2AF-B8B9-AB44-ACE5-9ADFCFE80A27}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1B20F2AF-B8B9-AB44-ACE5-9ADFCFE80A27}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+>
